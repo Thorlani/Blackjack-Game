@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background: black;
+    color: #ffffff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.rule {
+    text-decoration: underline;
+    position: relative;
+    top: -.5rem;
+}
+
+button {
+    padding: 12px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    border: none;
+    border-radius: 5px;
+    cursor: grab;
+}
+
+#restart-btn {
+    cursor: pointer;
+}
+
+hr {
+    width: 25%;
+}
